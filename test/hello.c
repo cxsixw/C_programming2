@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void* swapDouble(double* pa, double* pb); // 穿号 識情
+void* swapDouble(double* pa, double* pb); // 穿号 識情ししし
 int test_print_array();
 int test_swapDouble();
 
