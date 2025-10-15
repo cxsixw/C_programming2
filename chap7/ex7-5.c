@@ -7,6 +7,14 @@
 #include <stdio.h>
 #define ARR_SIZE 5
 
+/*
+기능명: F1. 두 정수의 합 구하기
+내용: 두 개의 정수를 매개변수로 받아 합을 반환한다.
+입력: a(정수), b(정수)
+출력: 두 정수의 합 (정수)
+오류: 없음
+*/
+
 int add(int a, int b)					// int형의 매개변수를 갖는 함수
 {
 	return a + b;

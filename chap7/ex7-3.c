@@ -5,6 +5,14 @@
 
 #include <stdio.h>
 
+/*
+기능명: F1. 배열 초기화 및 출력
+내용: 크기가 5인 정수 배열을 선언하고, 초기값을 지정한 뒤 배열의 값을 출력한다.
+입력: 없음
+출력: 배열의 값 (정수)
+오류: 입력이 없으므로 별도의 오류 조건 없음
+*/
+
 int main(void)
 {
 	int arr[5] = { 1, 2, 3, 4, 5 };		// 배열의 크기만큼 초기값을 지정한다.
@@ -12,7 +20,7 @@ int main(void)
 
 	printf("arr = ");
 	for (i = 0; i < 5; i++)
-		printf("% d", arr[i]);
+		printf("%d ", arr[i]);
 	printf("\n");
 
 	return 0;

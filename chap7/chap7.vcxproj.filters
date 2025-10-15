@@ -30,5 +30,41 @@
     <ClCompile Include="ex7-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ex7-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex7-15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
