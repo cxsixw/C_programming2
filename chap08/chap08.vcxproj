@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bc0d1c84-295c-448f-b4fc-ed3b84cf5994}</ProjectGuid>
-    <RootNamespace>chap9</RootNamespace>
+    <ProjectGuid>{1397a17b-f049-4c87-aafa-6ed8588c2aaa}</ProjectGuid>
+    <RootNamespace>chap08</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,21 +123,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="asssignment01.c" />
-    <ClCompile Include="ex9-1.c" />
-    <ClCompile Include="ex9-10.c" />
-    <ClCompile Include="ex9-11.c" />
-    <ClCompile Include="ex9-12.c" />
-    <ClCompile Include="ex9-13.c" />
-    <ClCompile Include="ex9-14.c" />
-    <ClCompile Include="ex9-2.c" />
-    <ClCompile Include="ex9-3.c" />
-    <ClCompile Include="ex9-4.c" />
-    <ClCompile Include="ex9-5.c" />
-    <ClCompile Include="ex9-6.c" />
-    <ClCompile Include="ex9-7.c" />
-    <ClCompile Include="ex9-8.c" />
-    <ClCompile Include="ex9-9.c" />
+    <ClCompile Include="ex8-1.c" />
+    <ClCompile Include="ex8-10.c" />
+    <ClCompile Include="ex8-11.c" />
+    <ClCompile Include="ex8-12.c" />
+    <ClCompile Include="ex8-13.c" />
+    <ClCompile Include="ex8-14.c" />
+    <ClCompile Include="ex8-15.c" />
+    <ClCompile Include="ex8-2.c" />
+    <ClCompile Include="ex8-3.c" />
+    <ClCompile Include="ex8-4.c" />
+    <ClCompile Include="ex8-5.c" />
+    <ClCompile Include="ex8-6.c" />
+    <ClCompile Include="ex8-7.c" />
+    <ClCompile Include="ex8-8.c" />
+    <ClCompile Include="ex8-9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
