@@ -123,7 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="asssignment01.c" />
+    <ClCompile Include="assignment03.c" />
+    <ClCompile Include="assignment04.c" />
+    <ClCompile Include="assignment14.c" />
+    <ClCompile Include="assignment15.c" />
+    <ClCompile Include="assignment16.c" />
+    <ClCompile Include="assignment17.c" />
     <ClCompile Include="ex9-1.c" />
     <ClCompile Include="ex9-10.c" />
     <ClCompile Include="ex9-11.c" />
@@ -138,6 +143,7 @@
     <ClCompile Include="ex9-7.c" />
     <ClCompile Include="ex9-8.c" />
     <ClCompile Include="ex9-9.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

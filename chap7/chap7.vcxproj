@@ -123,8 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="assignment01.c" />
+    <ClCompile Include="assignment02.c" />
     <ClCompile Include="assignment04.c" />
     <ClCompile Include="assignment10.c" />
+    <ClCompile Include="assignment11.c" />
+    <ClCompile Include="assignment12.c" />
     <ClCompile Include="ex7-1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClCompile>

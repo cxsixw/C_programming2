@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="asssignment01.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="ex9-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -58,6 +55,27 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ex9-14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment17.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

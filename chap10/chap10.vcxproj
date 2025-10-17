@@ -123,6 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="assignment01.c" />
+    <ClCompile Include="assignment03.c" />
+    <ClCompile Include="assignment08.c" />
+    <ClCompile Include="assignment13.c" />
+    <ClCompile Include="assignment15.c" />
+    <ClCompile Include="assignment18.c" />
     <ClCompile Include="contact.c" />
     <ClCompile Include="ex10-1.c" />
     <ClCompile Include="ex10-10.c" />
