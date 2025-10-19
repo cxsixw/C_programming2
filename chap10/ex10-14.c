@@ -11,7 +11,7 @@
 // 출력: 열거 상수 값과 해당 방향 문자열
 // 오류: switch문 case에서 ';' 사용 시 컴파일 오류 발생
 
-enum dircetion {NORTH, SOUTH, EAST, WEST};
+enum direction {NORTH, SOUTH, EAST, WEST};
 
 int main(void)
 {
